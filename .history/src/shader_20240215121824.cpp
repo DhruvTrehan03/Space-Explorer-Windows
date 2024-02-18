@@ -1,5 +1,4 @@
 #include "Shader.hpp"
-#include <string>
 
 void Shader::Bind() const {
     glUseProgram(m_shaderProgramID);

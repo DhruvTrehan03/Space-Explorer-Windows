@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\dhruv\Downloads\Monami\Project_Stella\Space-Explorer-Windows\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dhruv\Downloads\Monami\Project_Stella\Space-Explorer-Windows\src\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dhruv\Downloads\Monami\Project_Stella\Space-Explorer-Windows\include\imgui\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dhruv\Downloads\Monami\Project_Stella\Space-Explorer-Windows\include\imgui\imgui_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dhruv\Downloads\Monami\Project_Stella\Space-Explorer-Windows\include\imgui\imgui_draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dhruv\Downloads\Monami\Project_Stella\Space-Explorer-Windows\include\imgui\imgui_impl_glfw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dhruv\Downloads\Monami\Project_Stella\Space-Explorer-Windows\include\imgui\imgui_impl_opengl3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dhruv\Downloads\Monami\Project_Stella\Space-Explorer-Windows\include\imgui\imgui_tables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dhruv\Downloads\Monami\Project_Stella\Space-Explorer-Windows\include\imgui\imgui_widgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dhruv\Downloads\Monami\Project_Stella\Space-Explorer-Windows\src\camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dhruv\Downloads\Monami\Project_Stella\Space-Explorer-Windows\src\indexBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dhruv\Downloads\Monami\Project_Stella\Space-Explorer-Windows\src\mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dhruv\Downloads\Monami\Project_Stella\Space-Explorer-Windows\src\model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dhruv\Downloads\Monami\Project_Stella\Space-Explorer-Windows\src\renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dhruv\Downloads\Monami\Project_Stella\Space-Explorer-Windows\src\shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dhruv\Downloads\Monami\Project_Stella\Space-Explorer-Windows\src\texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dhruv\Downloads\Monami\Project_Stella\Space-Explorer-Windows\src\vertexArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dhruv\Downloads\Monami\Project_Stella\Space-Explorer-Windows\src\vertexBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dhruv\Downloads\Monami\Project_Stella\Space-Explorer-Windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5410F656-F543-370B-BDDD-A3970123E5AE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
